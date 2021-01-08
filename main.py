@@ -1,7 +1,7 @@
 """Application for choosing dinners from databases and preparing needed ingredients for whole week"""
 
 from tkinter import *
-from tkinter_apps.DinnerApp.data import dinners_dict, dinners
+from dinner.data import dinners_dict, dinners
 
 
 class Dinner(Frame):

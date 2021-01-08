@@ -10,7 +10,11 @@ dinners = [
     'Pizza',
     'Wątróbka drobiowa z cebulą',
     'Zupa ogórkowa',
-    'Szakszuka'
+    'Szakszuka',
+    'kotlety schabowe',
+    'pstrąg w płatkach owsianych',
+    'placki z kiszonej kapusty',
+    "pierogi ruskie"
 ]
 
 dinners_dict = [
